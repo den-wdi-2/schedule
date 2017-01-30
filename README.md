@@ -575,7 +575,7 @@ Time | Day 1                                 | Day 2                            
 **11:00am** | Project Work | Mock Interviews / Project Work | Project Work | Mock Interviews | Zeb Available for Mock Interviews / Portfolio Help
 **2:00pm** | Project Work | Mock Interviews / Project Work | Presentations | Practice Showcase | Zeb Available for Mock Interviews / Portfolio Help
 **3:00pm** |Project Work | Mock Interviews / Project Work | Outcomes | Final Survey, Certificates, and Recap (Graduation) | NO CLASS
-**Training** |Project Work | Project Work | Project Work | Happy Hour | NO CLASS
+**Training** |Project Work | Project Work | Project Work | Happy Hour: 4-530 in WeWork, 530 at Amato's Ale House | NO CLASS
 
 Weekly Goals:
 
